@@ -1,0 +1,7 @@
+C:\Personal\Learning\Azure\TEMP2\learningapp\bin\Publish\learningapp.exe
+C:\Personal\Learning\Azure\TEMP2\learningapp\bin\Publish\appsettings.Development.json
+C:\Personal\Learning\Azure\TEMP2\learningapp\bin\Publish\appsettings.json
+C:\Personal\Learning\Azure\TEMP2\learningapp\bin\Publish\learningapp.dll
+C:\Personal\Learning\Azure\TEMP2\learningapp\bin\Publish\learningapp.deps.json
+C:\Personal\Learning\Azure\TEMP2\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\Personal\Learning\Azure\TEMP2\learningapp\bin\Publish\learningapp.pdb
